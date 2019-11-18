@@ -1,2 +1,2 @@
- expect(greeting) = "hello_world"  
+ expect(greeting)="hello_world"  
  
